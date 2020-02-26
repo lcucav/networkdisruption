@@ -13,10 +13,12 @@ This project is simple Lorem ipsum dolor generator.
 ## Technologies
 Project is created with:
 * Python version: 3.7.3
+
 With the following libraries:
 * NetworkX library version: 2.3
 * Numpy library version: 1.16.4
 * Pandas library version: 0.25.1
+
 Additional libraries (to plot the results):
 * Matplotlib library version: 3.1.1
 * Seaborn library version: 0.9.0
