@@ -8,7 +8,7 @@ This project has been developed to distrupt complex networks.
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project has been developed to distrupt complex networks.
 	
 ## Technologies
 Project is created with:
