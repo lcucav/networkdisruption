@@ -166,7 +166,7 @@ def disruption(Graph, centrality_function, centrality_label,
                     toremove = collective_influence_centality(Graph, toremove, weight=weight)
                 elif centrality_label != 'Collective Influence':
                     toremove = max_centr(Graph, centrality_function, toremove, weight=weight)
-            Graph.remove_node(toremove[0])  # 18, 47, 27, 12, 68
+            Graph.remove_node(toremove[0])
             toremove.pop(0)
             kiter += 1
             i += 1
