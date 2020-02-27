@@ -1,5 +1,5 @@
 # coding: utf-8
-__author__ = "Lucia Cavallaro, and Giacomo Fiumara"
+__author__ = "Lucia Cavallaro, Pasquale De Meo, Annamaria Ficara, and Giacomo Fiumara"
 __version__ = "0.0.1"
 # In[1]:
 
