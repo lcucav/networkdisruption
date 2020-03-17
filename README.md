@@ -18,7 +18,7 @@ To re-use this code, please cite us:
 * [Setup](#setup)
 
 ## General info
-This project has been developed to distrupt complex networks. This code refers to our work [[1]](#1).
+This project has been developed to distrupt complex networks. For further details, please refers to our work [[1]](#1).
 	
 ## Technologies
 Project is created with:
