@@ -1,3 +1,14 @@
+# If you use parts of this code please cite the following articles:
+
+# @misc{cavallaro2020disrupting,
+#     title={Disrupting Resilient Criminal Networks through Data Analysis: The case of Sicilian Mafia},
+#     author={Lucia Cavallaro and Annamaria Ficara and Pasquale De Meo and Giacomo Fiumara and Salvatore Catanese and Ovidiu Bagdasar and Antonio Liotta},
+#     year={2020},
+#     eprint={2003.05303},
+#     archivePrefix={arXiv},
+#     primaryClass={cs.SI}
+# }
+
 # coding: utf-8
 __author__ = "Lucia Cavallaro, Pasquale De Meo, Annamaria Ficara, and Giacomo Fiumara"
 __version__ = "0.0.1"
