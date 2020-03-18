@@ -1,7 +1,8 @@
 # Network Distruption
 
 This project has been developed to distrupt complex networks.
-To re-use the source dataset or code, please cite us:
+
+To re-use the dataset or the source code, please cite us:
 
 @misc{cavallaro2020disrupting,
     title={Disrupting Resilient Criminal Networks through Data Analysis: The case of Sicilian Mafia},
