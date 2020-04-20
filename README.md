@@ -1,6 +1,6 @@
-# Network Distruption
+# Network Disruption
 
-This project has been developed to distrupt complex networks.
+This project has been developed to disrupt complex networks.
 
 To re-use the dataset or the source code, please cite us:
 
@@ -19,7 +19,7 @@ To re-use the dataset or the source code, please cite us:
 * [Setup](#setup)
 
 ## General info
-This project has been developed to distrupt real complex networks. For further details, please refers to our work [[1]](#1).
+This project has been developed to disrupt real complex networks. For further details, please refers to our work [[1]](#1).
 	
 ## Technologies
 Project is created with:
