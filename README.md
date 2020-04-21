@@ -20,6 +20,7 @@ To re-use the dataset or the source code, please cite us:
 
 ## General info
 This project has been developed to disrupt real complex networks. For further details, please refers to our work [[1]](#1).
+Note that this source file will be no longer updated. For lastest versions, please refers to https://github.com/lcucav/criminal-nets/tree/master/disruption
 	
 ## Technologies
 Project is created with:
