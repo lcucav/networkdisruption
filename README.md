@@ -56,4 +56,4 @@ $ python network-disruption-plots.py
 <a id="1">[1]</a> 
 Cavallaro, L., and Ficara, A., and De Meo, P., and Fiumara, G., and Catanese, S., and Bagdasar, O., and Liotta, A. (2020). 
 Disrupting Resilient Criminal Networks through Data Analysis: The case of Sicilian Mafia.
-http://arxiv.org/abs/2003.05303v1
+PLOS ONE 15(8): e0236476. https://doi.org/10.1371/journal.pone.0236476 
