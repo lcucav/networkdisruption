@@ -3,7 +3,7 @@
 This project has been developed to disrupt complex networks.
 
 To re-use the dataset or the source code, please cite us:
-
+```
 @misc{cavallaro2020disrupting,
     title={Disrupting Resilient Criminal Networks through Data Analysis: The case of Sicilian Mafia},
     author={Lucia Cavallaro and Annamaria Ficara and Pasquale De Meo and Giacomo Fiumara and Salvatore Catanese and Ovidiu Bagdasar and Antonio Liotta},
@@ -12,7 +12,7 @@ To re-use the dataset or the source code, please cite us:
     archivePrefix={arXiv},
     primaryClass={cs.SI}
 }
-
+```
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
